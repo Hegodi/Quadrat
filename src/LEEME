@@ -1,0 +1,10 @@
+mar nov 25 21:28:32 CET 2014
+
+    Quadrat: Algoritmo MiniMax sin poda
+
+	-Implementar poda alfa-beta?
+	-Interface de usuario: Número de casillas 3-6
+			       Dificultad 1-4
+			       Pistas Y/N
+			       Tiempo No/10s/20s/30s
+	-Implementar elección aleatoria.
